@@ -1,0 +1,5 @@
+./nest-js-socket-client/node_modules
+./nest-js-socket-consumer-server/node_modules
+./nest-js-socket-consumer-server/dist
+./nest-js-socket-gateway/node_modules
+./nest-js-socket-gateway/dist
